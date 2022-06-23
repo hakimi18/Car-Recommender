@@ -1,0 +1,72 @@
+---
+title       : Car Recommender 
+author      : Millenial M's
+
+
+
+
+output: slidy_presentation
+---
+
+
+
+## Introduction 
+![](C:/Users/Lenovo_User/Desktop/introdatascience/presentation/assets/img/logo.png)
+
+
+How did we come to Car Recommender Project
+
+Problem statement
+
+The increasing demand of cars of local brands each year, with little to no source and app to look for the in-depth details inside the domain has quite made us felt intrigued in making our steps to producing this archive-recommender from websites with the aim to make it easier for users to look for their desired vehicle. 
+
+The Questions?
+
+What is the price range of the local car brands?
+
+What is the car model with the highest price value in Malaysia?
+
+Which year has most car model manufactured?
+
+
+---
+
+
+## Solution
+
+We plan to produce an all local brand archive that gathers the details and informations of the models available domestically.
+
+Objective
+
+To identify the models available in Malaysia.
+
+To show the graph illustration of car models in Malaysia.
+
+To display the price of each car models in Malaysia.
+
+
+
+---
+
+## Features Available
+
+Features that we have acquired from the dataset
+
+-Car models according to their respective brands.
+
+-Car models with their price and capacity.
+
+-Car models on their year manufactured.
+
+Codeine Shiny Application is available here: 
+
+The dataset we used in this project is available at: 
+https://docs.google.com/spreadsheets/d/1cY48QR95lGdRv0SRQr6kOh7d5wCAhFXShcFK_BpN0ug/edit#gid=0
+
+Source code for this application is available on Github: 
+
+---
+
+## Screenshot of RShiny Application
+
+ ![](C:/Users/Lenovo_User/Desktop/introdatascience/presentation/assets/img/CarRecommenderSnippet1.jpg)
